@@ -50,6 +50,7 @@ class OPM():
 
         options_chain (dict): Options chain that will be used to update the models.
         """
+
         strikes = np.array([x['strike_price'] for x in options_chain['call']])
         deltas = np.array([x['delta'] for x in options_chain['call']])
         self.strikes = strikes
@@ -59,7 +60,6 @@ class OPM():
         self.__update_delta_model()
         self.__update_iv_model()
 
-
     def predict_iv(self, strike_price: float) -> float:
         """
         Predicts the implied volatility of an option given a strike price and expiration date.
@@ -68,6 +68,10 @@ class OPM():
 
         Returns: Predicted implied volatility of the option.
         """
+
+        # First, check if the IV is already known
+        if strike_price in self.strikes:
+            return self.ivs[np.where(self.strikes == strike_price)][0]
 
         if len(self.iv_model_materials.keys()) < 1:
             raise Exception('IV model has not been initialized. Please call update_models() first.')
@@ -93,6 +97,9 @@ class OPM():
 
         Returns: Predicted delta of the option.
         """
+
+        if strike_price in self.strikes:
+            return self.deltas[np.where(self.strikes == strike_price)][0]
 
         if len(self.delta_model_materials.keys()) < 1:
             raise Exception('Delta model has not been initialized. Please call update_models() first.')
