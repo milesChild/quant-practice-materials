@@ -1,0 +1,753 @@
+R / Ryder System, Inc.				0.68	9.49	68.63	39.86	1.0063	0.0836
+BCC / Boise Cascade Co				0.60	16.73	66.13	77.76	0.9696	0.2701
+AL / Air Lease Corp - Class A				1.48	17.09	60.44	25.53	0.8862	-0.0191
+THO / Thor Industries, Inc.				0.57	0.81	59.25	35.01	0.8687	0.0435
+MLI / Mueller Industries, Inc.				0.77	12.57	59.08	16.96	0.8662	-0.0835
+TMHC / Taylor Morrison Home Corp.				1.23	-10.58	58.51	-0.10	0.8579	-0.2434
+SM / SM Energy Co				1.37	14.27	57.98	83.91	0.8502	0.2573
+KBH / KB Home				1.10	50.76	55.95	76.76	0.8204	0.2252
+GT / Goodyear Tire & Rubber Co.				4.25	32.43	54.87	24.52	0.8045	-0.0241
+VSH / Vishay Intertechnology, Inc.				1.87	17.89	51.21	25.49	0.7508	-0.0165
+LPX / Louisiana-Pacific Corp.				0.79	7.60	49.58	14.88	0.7270	-0.0845
+MTG / MGIC Investment Corp				2.81	8.85	49.42	26.56	0.7246	-0.0097
+MATX / Matson Inc				0.56	13.29	48.98	45.70	0.7181	0.0861
+MTH / Meritage Homes Corp.				0.35	9.11	48.58	31.54	0.7122	0.0179
+GATX / GATX Corp.				0.41	26.64	48.23	25.82	0.7071	-0.0136
+CRC / California Resources Corporation - New				0.82	13.30	45.98	68.53	0.6742	0.1612
+DEN / Denbury Inc. - New				0.50	9.45	45.70	11.16	0.6700	-0.1029
+WIRE / Encore Wire Corp.				0.27	8.41	45.25	9.16	0.6635	-0.1159
+DIOD / Diodes, Inc.				0.55	14.57	45.11	4.38	0.6614	-0.1512
+TPH / Tri Pointe Homes Inc.				1.45	24.96	45.04	33.04	0.6603	0.0238
+ATKR / Atkore Inc				0.28	-0.81	43.29	30.79	0.6347	0.0124
+RDN / Radian Group, Inc.				1.60	14.51	43.23	21.41	0.6338	-0.0357
+AMR / Alpha Metallurgical Resources Inc				0.21	8.50	42.83	63.06	0.6279	0.1341
+CNX / CNX Resources Corp				1.91	11.55	42.59	61.37	0.6245	0.1282
+CC / Chemours Company				1.22	2.46	41.51	31.58	0.6087	0.0155
+SANM / Sanmina Corp				0.74	-0.83	41.02	4.14	0.6015	-0.1392
+HRI / Herc Holdings Inc				0.31	14.59	40.26	47.04	0.5903	0.0754
+SIG / Signet Jewelers Ltd				0.54	12.41	40.24	32.79	0.5900	0.0202
+ESNT / Essent Group Ltd				0.78	-8.45	38.96	4.09	0.5713	-0.1326
+MHO / MI Homes Inc.				0.39	44.05	38.77	100.12	0.5685	0.2042
+SKY / Skyline Champion Corp				0.54	15.99	38.42	42.21	0.5632	0.0553
+KLIC / Kulicke & Soffa Industries, Inc.				0.74	11.74	38.09	9.31	0.5584	-0.0967
+MDC / M.D.C. Holdings, Inc.				0.78	55.81	36.95	83.55	0.5417	0.1632
+RIG / Transocean Ltd				4.44	-4.02	36.31	37.27	0.5324	0.0350
+KOS / Kosmos Energy Ltd				4.97	7.03	36.22	30.73	0.5310	0.0101
+MGY / Magnolia Oil & Gas Corp - Class A				1.53	22.48	34.99	44.47	0.5129	0.0576
+KSS / Kohl`s Corp.				1.31	24.91	34.78	81.63	0.5099	0.1499
+PBF / PBF Energy Inc - Class A				0.73	-6.39	34.30	19.24	0.5029	-0.0380
+ARCB / ArcBest Corp				0.32	12.12	34.22	41.32	0.5018	0.0464
+State Street Navigator Securities Lending Government Money Market Portfolio / STIV (N/A)				33.89	5,277.58	33.89	5,279.21	0.4969	-0.6829
+BTU / Peabody Energy Corp. New				1.57	6.81	33.87	26.93	0.4966	-0.0051
+LCII / LCI Industries				0.27	29.56	33.24	50.23	0.4873	0.0713
+M / Macy`s Inc				2.70	27.87	32.99	15.07	0.4838	-0.0553
+HCC / Warrior Met Coal Inc				0.83	11.89	32.80	35.03	0.4809	0.0242
+AEO / American Eagle Outfitters Inc.				1.92	43.18	32.55	138.78	0.4773	0.2209
+NOG / Northern Oil and Gas Inc.				0.78	19.22	32.54	66.74	0.4771	0.1102
+LTHM / Livent Corp				1.51	99.52	32.46	85.85	0.4759	0.1475
+ETRN / Equitrans Midstream Corporation				3.38	18.60	32.45	33.48	0.4758	0.0187
+CMC / Commercial Metals Co.				0.57	-0.70	32.23	30.75	0.4725	0.0091
+SLM / SLM Corp.				2.25	10.38	32.05	3.00	0.4700	-0.1152
+CPE / Callon Petroleum Co.				0.81	11.09	31.83	42.29	0.4667	0.0461
+SFM / Sprouts Farmers Market Inc				0.78	-0.85	31.76	17.03	0.4657	-0.0446
+WERN / Werner Enterprises, Inc.				0.74	12.50	30.95	6.58	0.4538	-0.0922
+CEIX / Consol Energy Inc				0.36	7.96	30.85	72.14	0.4523	0.1153
+LBRT / Liberty Energy Inc - Class A				1.93	11.17	30.77	51.04	0.4511	0.0681
+EVR / Evercore Inc - Class A				0.22	5.54	30.75	36.92	0.4508	0.0286
+HUBG / Hub Group, Inc. - Class A				0.39	13.74	30.55	20.67	0.4479	-0.0281
+FTI / TechnipFMC plc				1.59	-1.15	30.19	43.24	0.4427	0.0463
+ARCH / Arch Resources Inc - Class A				0.23	9.70	30.04	38.62	0.4405	0.0330
+HWC / Hancock Whitney Corp.				0.72	14.59	29.69	29.40	0.4353	0.0039
+NYCB / New York Community Bancorp Inc.				2.40	-15.21	29.48	1.28	0.4323	-0.1151
+JXN / Jackson Financial Inc - Class A				0.78	8.69	29.38	47.54	0.4308	0.0563
+TDS / Telephone And Data Systems, Inc.				1.36	11.91	29.30	260.05	0.4296	0.2766
+AEL / American Equity Investment Life Holding Co				0.53	68.80	28.59	129.69	0.4191	0.1851
+AXS / Axis Capital Holdings Ltd				0.52	37.87	28.54	45.74	0.4185	0.0502
+BHF / Brighthouse Financial Inc				0.57	22.91	28.33	51.61	0.4153	0.0640
+VRTV / Veritiv Corp				0.17	5.69	27.99	68.49	0.4104	0.0980
+SKYW / Skywest Inc.				0.62	17.24	27.82	76.78	0.4079	0.1120
+MYRG / MYR Group Inc				0.20	8.25	27.82	20.63	0.4078	-0.0258
+TEX / Terex Corp.				0.46	111.76	27.59	176.79	0.4046	0.2171
+IDCC / Interdigital Inc				0.32	27.16	27.50	32.78	0.4032	0.0138
+DOOR / Masonite International Corp				0.27	7.45	27.44	25.31	0.4023	-0.0094
+URBN / Urban Outfitters, Inc.				0.81	22.71	26.96	32.23	0.3953	0.0119
+CNO / CNO Financial Group Inc				1.14	10.05	26.75	18.62	0.3922	-0.0318
+PAGP / Plains GP Holdings LP - Class A				1.63	-10.73	26.18	5.28	0.3838	-0.0837
+CBT / Cabot Corp.				0.36	-0.71	26.01	5.06	0.3814	-0.0841
+GPS / Gap, Inc.				2.25	125.07	26.01	224.99	0.3814	0.2309
+CALM / Cal-Maine Foods, Inc.				0.54	32.69	25.99	33.36	0.3810	0.0146
+WGO / Winnebago Industries, Inc.				0.40	12.09	25.74	30.64	0.3774	0.0069
+KFY / Korn Ferry				0.50	4.59	25.44	13.45	0.3730	-0.0486
+GNW / Genworth Financial Inc - Class A				4.38	9.72	25.34	18.75	0.3715	-0.0297
+CVCO / Cavco Industries Inc				0.09	28.21	25.19	43.93	0.3693	0.0403
+MUR / Murphy Oil Corp.				0.55	-0.91	25.04	29.27	0.3671	0.0029
+DAN / Dana Inc				1.52	34.32	24.44	68.14	0.3583	0.0850
+OII / Oceaneering International, Inc.				1.06	8.94	24.15	62.16	0.3541	0.0741
+PTEN / Patterson-UTI Energy Inc				1.70	18.24	23.98	71.65	0.3516	0.0889
+SAIA / Saia Inc.				0.06	-0.68	23.91	48.97	0.3505	0.0488
+NSIT / Insight Enterprises Inc.				0.15	116.74	23.57	156.60	0.3455	0.1728
+CCS / Century Communities Inc				0.32	57.66	23.56	83.98	0.3454	0.1046
+AROC / Archrock Inc				1.83	6.21	23.42	50.95	0.3434	0.0517
+US17888H1032 / Civitas Resources, Inc.				0.28	-0.85	23.36	22.04	0.3425	-0.0174
+CADE / Cadence Bank				1.01	34.36	23.07	71.17	0.3383	0.0848
+NMIH / NMI Holdings Inc - Class A				0.80	11.45	23.00	26.83	0.3372	-0.0038
+AGO / Assured Guaranty Ltd				0.39	-1.62	22.88	11.86	0.3355	-0.0491
+JBLU / Jetblue Airways Corp				3.86	72.40	22.82	49.43	0.3346	0.0474
+OAS / Oasis Petroleum Inc. - New				0.14	-0.90	22.73	11.90	0.3333	-0.0487
+ANF / Abercrombie & Fitch Co. - Class A				0.42		22.56		0.3308	0.3308
+CATY / Cathay General Bancorp				0.63	11.91	22.44	36.36	0.3290	0.0196
+MTDR / Matador Resources Co				0.35	-0.90	22.28	43.11	0.3267	0.0340
+AX / Axos Financial Inc.				0.52	11.28	22.27	26.79	0.3265	-0.0037
+IBOC / International Bancshares Corp.				0.49	12.64	22.16	18.07	0.3249	-0.0280
+ABCB / Ameris Bancorp				0.54	10.78	22.16	43.04	0.3249	0.0336
+ODP / ODP Corporation (The)				0.45	11.30	22.06	37.02	0.3235	0.0207
+TGH / Textainer Group Holdings Limited				0.55	17.34	21.98	31.10	0.3222	0.0070
+TROX / Tronox Holdings plc - Class A				1.61	10.72	21.96	41.94	0.3219	0.0311
+UMBF / UMB Financial Corp.				0.34	13.72	21.52	26.90	0.3155	-0.0033
+BPOP / Popular Inc.				0.31	29.19	21.50	54.27	0.3152	0.0532
+ATSG / Air Transport Services Group Inc				1.00	14.20	21.45	47.44	0.3145	0.0410
+OPEN / Opendoor Technologies Inc				5.50	835.21	21.45	1,281.77	0.3144	0.2852
+VSTO / Vista Outdoor Inc				0.73	18.14	21.37	29.77	0.3133	0.0037
+HHH / Howard Hughes Holdings Inc				0.27		21.37		0.3133	0.3133
+ASB / Associated Banc-Corp.				1.22	13.01	21.17	32.23	0.3104	0.0094
+KMT / Kennametal Inc.				0.80	0.29	21.07	6.52	0.3089	-0.0630
+NEX / NexTier Oilfield Solutions Inc				1.97	17.70	20.89	65.63	0.3063	0.0691
+PLAB / Photronics, Inc.				0.88	17.45	20.88	31.45	0.3062	0.0075
+MGRC / McGrath Rentcorp				0.21	-1.09	20.86	12.60	0.3059	-0.0425
+PARR / Par Pacific Holdings Inc				0.61	15.07	20.85	85.40	0.3057	0.0942
+STRL / Sterling Infrastructure Inc				0.25	34.28	20.84	141.23	0.3055	0.1431
+OZK / Bank OZK				0.50	36.81	20.17	58.93	0.2958	0.0571
+ALGT / Allegiant Travel				0.23	25.34	20.07	14.22	0.2942	-0.0361
+OMF / OneMain Holdings Inc				0.48	-19.11	20.00	-11.31	0.2932	-0.1307
+PSMT / Pricesmart Inc.				0.25	44.96	19.81	58.96	0.2904	0.0561
+WTFC / Wintrust Financial Corp.				0.25	20.45	19.58	47.06	0.2871	0.0367
+VSAT / Viasat, Inc.				0.70	-13.65	19.52	-46.31	0.2862	-0.3973
+TALO / Talos Energy Inc				1.12	15.66	19.32	61.79	0.2833	0.0587
+SNV / Synovus Financial Corp.				0.62	39.90	19.24	59.89	0.2821	0.0558
+COKE / Coca-Cola Consolidated Inc				0.03	-0.66	18.88	4.92	0.2769	-0.0615
+ACLS / Axcelis Technologies Inc				0.10	-0.68	18.86	21.13	0.2765	-0.0162
+TCBI / Texas Capital Bancshares, Inc.				0.30	4.17	18.70	37.51	0.2741	0.0185
+SHOO / Steven Madden Ltd.				0.54	149.07	18.68	175.32	0.2738	0.1463
+FYBR / Frontier Communications Parent Inc				1.17	510.25	18.67	557.00	0.2738	0.2203
+RCII / Upbound Group Inc				0.61	24.83	18.58	27.80	0.2724	-0.0009
+HEES / H&E Equipment Services Inc				0.41	11.46	18.53	40.49	0.2717	0.0237
+AM / Antero Midstream Corp				1.52	-0.91	18.38	17.63	0.2695	-0.0243
+BFH / Bread Financial Holdings Inc				0.49	13.14	18.35	50.88	0.2690	0.0404
+FULT / Fulton Financial Corp.				1.38	12.62	18.34	34.52	0.2689	0.0125
+BOH / Bank of Hawaii Corp.				0.34	13.90	18.15	56.35	0.2661	0.0479
+AMKR / AMKOR Technology Inc.				0.65	-0.79	18.11	11.94	0.2655	-0.0387
+BKU / BankUnited Inc				0.68	11.38	17.92	54.53	0.2628	0.0447
+GMS / GMS Inc				0.26	8.71	17.90	19.02	0.2624	-0.0203
+WFTIQ / Weatherford Intl, Plc				0.20	-0.75	17.72	55.67	0.2598	0.0458
+PFSI / PennyMac Financial Services Inc.				0.25	6.24	17.68	24.91	0.2592	-0.0069
+FNB / F.N.B. Corp.				1.52	113.89	17.62	126.35	0.2584	0.1120
+GRBK / Green Brick Partners Inc				0.35	34.19	17.31	38.65	0.2538	0.0191
+PPBI / Pacific Premier Bancorp, Inc.				0.74	13.93	17.15	39.28	0.2514	0.0199
+VIR / Vir Biotechnology Inc				1.35	7.39	17.15	-49.02	0.2514	-0.3810
+TBBK / Bancorp Inc. (The)				0.46	9.74	16.97	30.54	0.2488	0.0044
+OXM / Oxford Industries, Inc.				0.17	11.17	16.82	12.33	0.2467	-0.0349
+PATK / Patrick Industries, Inc.				0.20	34.79	16.74	72.05	0.2454	0.0625
+ESTE / Earthstone Energy Inc - Class A				0.82	10.26	16.63	87.10	0.2438	0.0767
+NAVI / Navient Corp				0.92	7.41	16.31	25.14	0.2391	-0.0059
+IMKTA / Ingles Markets, Inc. - Class A				0.21	10.44	16.27	7.50	0.2385	-0.0460
+STNG / Scorpio Tankers Inc				0.32	80.25	16.26	98.91	0.2384	0.0847
+MRTN / Marten Transport, Ltd.				0.77	12.25	16.15	11.45	0.2368	-0.0357
+HP / Helmerich & Payne, Inc.				0.40	100.44	15.98	159.58	0.2343	0.1185
+WAFD / WaFd Inc				0.58	12.03	15.78	17.08	0.2314	-0.0221
+PR / Permian Resources Corp - Class A				1.08	-0.89	15.38	50.62	0.2255	0.0335
+ANDE / Andersons Inc.				0.30	164.40	15.36	248.15	0.2252	0.1422
+SNEX / StoneX Group Inc				0.16	10.96	15.22	29.74	0.2232	0.0026
+CRI / Carters Inc				0.21	2,957.04	15.10	3,427.10	0.2213	0.2133
+SFL / SFL Corporation Ltd				1.32	10.13	14.96	45.05	0.2194	0.0254
+PRDO / Perdoceo Education Corporation				0.89	10.06	14.69	54.67	0.2154	0.0368
+HLX / Helix Energy Solutions Group Inc				1.45	7.93	14.65	74.28	0.2148	0.0567
+LZB / La-Z-Boy Inc.				0.47	40.97	14.62	62.77	0.2144	0.0455
+FBP / First Bancorp PR				1.05	55.01	14.52	92.54	0.2129	0.0711
+CRK / Comstock Resources, Inc.				1.18	8.44	14.42	42.64	0.2114	0.0213
+WD / Walker & Dunlop Inc				0.17	-15.97	14.12	-2.02	0.2071	-0.0639
+INSW / International Seaways Inc				0.33	73.67	14.03	107.02	0.2057	0.0783
+BKE / Buckle, Inc.				0.38	11.01	14.01	32.09	0.2054	0.0060
+CARS / Cars.com				0.74	-0.90	13.85	4.93	0.2030	-0.0451
+OFG / OFG Bancorp				0.45	11.06	13.59	38.07	0.1993	0.0142
+TMST / TimkenSteel Corp				0.62	8.70	13.56	39.83	0.1988	0.0165
+ENLC / Enlink Midstream LLC - Unit				1.09	-0.91	13.55	26.30	0.1987	-0.0031
+US2197981051 / QUIDELORTHO CORP 0.00000000				0.16	-5.71	13.51	-8.79	0.1982	-0.0804
+OEC / Orion S.A				0.59	30.72	13.34	27.50	0.1956	-0.0011
+PRG / PROG Holdings Inc				0.39	0.92	13.25	6.09	0.1942	-0.0406
+KW / Kennedy-Wilson Holdings Inc				0.83	-13.08	13.19	-10.04	0.1934	-0.0823
+MOD / Modine Manufacturing Co.				0.27	3,541.59	12.80	6,266.17	0.1876	0.1838
+VTLE / Vital Energy Inc.				0.21	16.11	12.79	68.73	0.1875	0.0450
+SCHL / Scholastic Corp.				0.29	-0.65	12.78	1.61	0.1874	-0.0491
+ASIX / AdvanSix Inc				0.38	12.62	12.73	13.23	0.1867	-0.0247
+MX:SLVM / Sylvamo Corp				0.30	74.19	12.72	84.59	0.1865	0.0569
+MBUU / Malibu Boats Inc - Class A				0.26	16.72	12.67	8.06	0.1858	-0.0347
+BXC / Bluelinx Hldgs Inc				0.14	14.94	12.57	24.77	0.1843	-0.0051
+CHX / ChampionX Corp.				0.35	-0.89	12.51	41.60	0.1834	0.0173
+ESGR / Enstar Group Limited				0.05	311.16	12.44	342.48	0.1824	0.1295
+CAKE / Cheesecake Factory Inc.				0.39	-1.08	12.38	0.57	0.1816	-0.0500
+SXC / SunCoke Energy Inc				1.32	10.84	12.26	51.82	0.1798	0.0279
+FL / Foot Locker Inc				0.62	-38.59	12.09	-52.41	0.1773	-0.3005
+WTM / White Mountains Insurance Group, Ltd.				0.01	46.24	11.97	71.57	0.1755	0.0443
+CASH / Pathward Financial Inc				0.24	9.63	11.94	22.93	0.1751	-0.0076
+WMK / Weis Markets, Inc.				0.18	1.01	11.93	10.05	0.1749	-0.0289
+AXL / American Axle & Manufacturing Holdings Inc				1.58	18.10	11.92	32.11	0.1748	0.0051
+PLYA / Playa Hotels & Resorts N.V.				1.59	18.16	11.86	-0.85	0.1739	-0.0510
+RYI / Ryerson Holding Corp.				0.38	25.05	11.84	14.56	0.1736	-0.0207
+MCRI / Monarch Casino & Resort, Inc.				0.17	12.48	11.53	16.84	0.1691	-0.0165
+LPG / Dorian LPG Ltd				0.44	12.40	11.47	25.64	0.1681	-0.0035
+COLB / Columbia Banking System, Inc.				0.56	-10.72	11.45	-8.72	0.1679	-0.0680
+PUMP / ProPetro Holding Corp				1.18	12.53	11.34	62.65	0.1663	0.0352
+RRC / Range Resources Corp				0.35	-0.93	11.31	17.20	0.1658	-0.0156
+SCHN / Schnitzer Steel Industries, Inc. - Class A				0.34	16.67	11.26	40.81	0.1651	0.0147
+BANR / Banner Corp.				0.26	15.99	11.24	16.74	0.1648	-0.0162
+VLY / Valley National Bancorp				1.22	55.83	11.22	93.85	0.1646	0.0557
+CBRL / Cracker Barrel Old Country Store Inc				0.14	-0.74	11.20	-16.53	0.1642	-0.0881
+SNDR / Schneider National Inc - Class B				0.39	-1.75	11.20	9.58	0.1642	-0.0280
+EFSC / Enterprise Financial Services Corp.				0.28	15.06	11.02	9.65	0.1616	-0.0274
+NBR / Nabors Industries Ltd				0.10	10.72	10.86	46.43	0.1593	0.0198
+RGR / Sturm, Ruger & Co., Inc.				0.21	7.00	10.60	7.05	0.1554	-0.0308
+CUBI / Customers Bancorp Inc				0.30	9.84	10.52	67.69	0.1542	0.0363
+TOWN / Townebank Portsmouth VA				0.44	-0.02	10.50	1.53	0.1539	-0.0405
+NBTB / NBT Bancorp. Inc.				0.30	6.49	10.46	9.26	0.1533	-0.0266
+SLCA / U.S. Silica Holdings Inc				0.85	11.08	10.45	20.88	0.1533	-0.0093
+GPOR / Gulfport Energy Corp. (New)				0.09	307.30	10.37	395.55	0.1520	0.1127
+AGM / Federal Agricultural Mortgage Corp. - Class C				0.06	24.39	10.35	56.48	0.1517	0.0274
+LRN / Stride Inc				0.24	17.82	10.29	23.89	0.1509	-0.0053
+WSFS / WSFS Financial Corp.				0.26	55.04	10.25	82.23	0.1503	0.0445
+CVI / CVR Energy Inc				0.31	8.38	10.21	51.39	0.1497	0.0229
+NX / Quanex Building Products Corp				0.38	21.06	10.16	55.47	0.1490	0.0261
+IRWD / Ironwood Pharmaceuticals Inc - Class A				1.15	54.30	10.13	24.80	0.1486	-0.0041
+ETD / Ethan Allen Interiors, Inc.				0.32	11.09	10.13	39.27	0.1485	0.0118
+WAL / Western Alliance Bancorp				0.20	489.04	10.02	769.12	0.1469	0.1252
+NNI / Nelnet Inc - Class A				0.11	0.85	10.00	0.14	0.1466	-0.0411
+VRTS / Virtus Investment Partners Inc				0.05	1.26	9.99	9.92	0.1464	-0.0244
+PFS / Provident Financial Services Inc				0.60	14.10	9.93	18.42	0.1456	-0.0121
+GES / Guess Inc.				0.41	12.18	9.79	40.51	0.1435	0.0125
+ONB / Old National Bancorp				0.63	180.61	9.64	244.89	0.1414	0.0888
+HTH / Hilltop Holdings Inc				0.31	-4.13	9.54	-1.31	0.1398	-0.0419
+KRP / Kimbell Royalty Partners LP - Units				0.62	15.41	9.53	20.26	0.1397	-0.0093
+BZH / Beazer Homes USA Inc.				0.32	73.33	9.40	150.67	0.1378	0.0673
+HTLF / Heartland Financial USA, Inc.				0.31	15.13	9.39	27.87	0.1377	-0.0004
+CLW / Clearwater Paper Corp				0.24	10.26	9.37	38.92	0.1374	0.0106
+HOPE / Hope Bancorp Inc				0.97	11.74	9.37	34.73	0.1373	0.0066
+DDS / Dillard`s Inc. - Class A				0.03	-0.75	9.13	24.41	0.1339	-0.0041
+UFPI / UFP Industries Inc				0.09	-0.67	9.05	32.72	0.1326	0.0045
+ZION / Zions Bancorporation N.A				0.25	60.29	8.95	108.56	0.1312	0.0505
+UNFI / United Natural Foods Inc.				0.44	34.55	8.89	1.40	0.1303	-0.0345
+SPNT / SiriusPoint Ltd				0.80	32.64	8.87	57.57	0.1300	0.0242
+INVA / Innoviva Inc				0.69	-10.48	8.86	-15.39	0.1299	-0.0670
+BUSE / First Busey Corp.				0.43	14.70	8.79	23.90	0.1288	-0.0045
+SCL / Stepan Co.				0.10	-12.27	8.73	-16.74	0.1280	-0.0692
+CPRX / Catalyst Pharmaceuticals Inc				0.62	6.95	8.69	30.01	0.1273	0.0017
+NUS / Nu Skin Enterprises, Inc. - Class A				0.36	-21.35	8.66	-43.62	0.1270	-0.1619
+SHEN / Shenandoah Telecommunications Co.				0.38	48.32	8.60	77.73	0.1262	0.0351
+CHS / Chico`s Fas, Inc.				1.66	17.64	8.51	32.93	0.1248	0.0044
+HCCI / Heritage-Crystal Clean Inc				0.19	12.97	8.39	53.64	0.1230	0.0203
+SBOW / SilverBow Resources Inc				0.19	16.29	8.28	108.33	0.1214	0.0467
+USM / United States Cellular Corporation				0.18	9.50	8.27	251.32	0.1213	0.0770
+HOV / Hovnanian Enterprises, Inc. - Class A				0.07	28.03	8.15	81.25	0.1195	0.0349
+SAVE / Spirit Airlines Inc				0.49	421.78	8.14	466.27	0.1194	0.0923
+DISH / Dish Network Corp - Class A				1.35	107.48	8.13	93.61	0.1191	0.0402
+GNK / Genco Shipping & Trading Limited				0.59	10.26	8.12	21.45	0.1191	-0.0067
+CAL / Caleres Inc				0.28	215.22	8.11	423.82	0.1190	0.0898
+SASR / Sandy Spring Bancorp				0.36	14.26	8.05	21.35	0.1180	-0.0067
+AMRC / Ameresco Inc. - Class A				0.18	29.70	8.04	30.95	0.1178	0.0024
+UCTT / Ultra Clean Hldgs Inc				0.23	-3.70	8.00	-1.22	0.1173	-0.0350
+AOSL / Alpha & Omega Semiconductor Ltd				0.25	-1.79	7.97	11.89	0.1169	-0.0171
+DBI / Designer Brands Inc - Class A				0.75	21.05	7.85	102.95	0.1152	0.0424
+EIG / Employers Holdings Inc				0.20	1.68	7.78	10.32	0.1141	-0.0185
+FLGT / Fulgent Genetics Inc				0.24	-2.09	7.74	-19.35	0.1134	-0.0669
+ENOV / Enovis Corp				0.14	-17.69	7.71	-12.52	0.1130	-0.0527
+LOB / Live Oak Bancshares Inc				0.24	3.21	7.66	54.25	0.1123	0.0189
+BELFB / Bel Fuse Inc. - Class B				0.15	31.73	7.62	40.05	0.1117	0.0094
+EXP / Eagle Materials Inc.				0.04	-0.67	7.61	15.43	0.1115	-0.0124
+FCF / First Commonwealth Financial Corp.				0.58	0.21	7.57	3.53	0.1110	-0.0265
+USNA / Usana Health Sciences Inc				0.12	6.89	7.57	13.26	0.1110	-0.0147
+QCRH / QCR Holding, Inc.				0.14	11.53	7.51	52.28	0.1101	0.0174
+ZEUS / Olympic Steel Inc.				0.14	26.28	7.37	61.61	0.1080	0.0223
+OCFC / OceanFirst Financial Corp.				0.43	16.24	7.27	38.11	0.1067	0.0076
+TWI / Titan International, Inc.				0.58	16.39	7.24	48.17	0.1062	0.0143
+ACT / Enact Holdings Inc				0.25	18.92	7.23	40.03	0.1061	0.0089
+APOG / Apogee Enterprises Inc.				0.14	68.55	7.22	130.44	0.1059	0.0470
+BRY / Berry Corp				0.84	8.32	7.21	47.35	0.1057	0.0137
+MMI / Marcus & Millichap Inc				0.21	-13.55	7.14	-1.91	0.1046	-0.0322
+SATS / EchoStar Corp - Class A				0.41	13.19	7.10	24.77	0.1041	-0.0029
+LBAI / Lakeland Bancorp, Inc.				0.52	12.00	7.09	16.31	0.1039	-0.0107
+CCRN / Cross Country Healthcares, Inc. - Registered Shares				0.27	63.68	6.98	65.37	0.1024	0.0230
+LXU / LSB Industries, Inc.				0.69	16.55	6.95	26.84	0.1018	-0.0011
+BJRI / BJ`s Restaurant Inc.				0.24	27.63	6.95	26.04	0.1018	-0.0018
+DK / Delek US Holdings Inc				0.27	-7.89	6.92	7.71	0.1014	-0.0193
+BHLB / Berkshire Hills Bancorp Inc.				0.33	16.16	6.89	18.73	0.1010	-0.0081
+HL / Hecla Mining Co.				1.56	-31.65	6.85	-43.71	0.1004	-0.1283
+ARGO / Argo Group International Holdings Ltd				0.23	0.00	6.76	1.50	0.0991	-0.0261
+AMPH / Amphastar Pharmaceuticals Inc				0.12	17.72	6.53	41.43	0.0958	0.0089
+GBX / Greenbrier Cos., Inc.				0.15	307.11	6.52	537.67	0.0956	0.0763
+CARG / CarGurus Inc - Class A				0.36	5.89	6.51	2.07	0.0955	-0.0245
+DCOM / Dime Community Bancshares Inc				0.30	15.01	6.49	51.28	0.0952	0.0145
+EGLE / Eagle Bulk Shipping Inc				0.15	4.93	6.46	16.89	0.0947	-0.0092
+SD / Sandridge Energy Inc New				0.40	9.17	6.45	29.60	0.0945	0.0010
+EGBN / Eagle Bancorp Inc (MD)				0.27	8.80	6.42	31.35	0.0941	0.0022
+UA / Under Armour Inc - Class C				0.93	-42.57	6.41	-39.87	0.0939	-0.1064
+Baytex Energy Trust				1.54		6.26		0.0918	0.0918
+SFBS / ServisFirst Bancshares Inc				0.11	91.29	6.25	166.01	0.0917	0.0475
+TRMK / Trustmark Corp.				0.27	25.25	6.25	38.24	0.0917	0.0066
+FCFS / FirstCash Holdings Inc				0.22	10.19	6.25	54.53	0.0916	0.0156
+SF / Stifel Financial Corp.				0.10	-1.27	6.24	15.52	0.0914	-0.0101
+CHUY / Chuy`s Holdings Inc				0.16	-3.43	6.23	-0.13	0.0914	-0.0260
+BRKL / Brookline Bancorp, Inc.				0.65	8.84	6.22	26.72	0.0912	-0.0011
+TBI / TrueBlue Inc				0.41	13.64	6.14	3.96	0.0901	-0.0210
+TNK / Teekay Tankers Ltd - Class A				0.15	176.64	6.14	211.47	0.0900	0.0530
+CNOB / ConnectOne Bancorp Inc.				0.32	12.08	6.11	57.81	0.0896	0.0168
+VTOL / Bristow Group Inc.				0.22	0.60	6.10	13.99	0.0895	-0.0112
+PEBO / Peoples Bancorp, Inc. (Marietta, OH)				0.24	20.11	6.08	20.57	0.0892	-0.0057
+POWL / Powell Industries, Inc.				0.07	164.56	6.08	286.45	0.0891	0.0595
+UAA / Under Armour Inc - Class A				0.78	-55.66	5.99	-53.02	0.0878	-0.1518
+NWLI / National Western Life Group Inc - Class A				0.01	-1.12	5.88	20.48	0.0863	-0.0056
+CVLG / Covenant Logistics Group Inc - Class A				0.12	7.53	5.82	38.51	0.0854	0.0063
+PCT / PureCycle Technologies Inc				0.64	7,596.69	5.73	9,959.65	0.0841	0.0830
+SGH / SMART Global Holdings Inc				0.22	48.13	5.72	69.44	0.0839	0.0204
+GVMXX / State Street Institutional Investment Trust - State Street Institutional US Govt Money Market Fnd Premier Cls				5.72	188.78	5.72	188.84	0.0839	0.0466
+SWBI / Smith & Wesson Brands Inc				0.48	-1.57	5.68	-1.49	0.0832	-0.0251
+OBK / Origin Bancorp Inc				0.18	15.26	5.64	24.34	0.0827	-0.0026
+TBK / Triumph Bancorp Inc				0.09	-48.59	5.64	-36.40	0.0827	-0.0840
+MERC / Mercer International Inc.				0.62	12.20	5.61	17.77	0.0822	-0.0073
+IIIN / Insteel Industries, Inc.				0.16	40.92	5.59	63.62	0.0819	0.0177
+JWN / Nordstrom, Inc.				0.34	16.55	5.48	23.56	0.0803	-0.0030
+SPHR / Sphere Entertainment Co - Class A				0.16	6.96	5.44	57.10	0.0798	0.0147
+OSBC / Old Second Bancorporation Inc.				0.38	13.54	5.44	38.78	0.0798	0.0060
+HVT / Haverty Furniture Cos., Inc.				0.17	0.95	5.43	19.75	0.0796	-0.0057
+BANC / Banc of California Inc				0.43	15.92	5.42	35.90	0.0795	0.0045
+TTMI / TTM Technologies Inc				0.36	-8.49	5.36	-0.48	0.0786	-0.0227
+PFBC / Preferred Bank (Los Angeles, CA)				0.09	23.42	5.33	66.23	0.0782	0.0179
+MOV / Movado Group, Inc.				0.19	10.36	5.25	18.59	0.0770	-0.0063
+HAFC / Hanmi Financial Corp.				0.30	10.44	5.22	32.83	0.0766	0.0027
+JBSS / Sanfilippo (John B.) & Son, Inc				0.05	57.31	5.20	35.83	0.0763	0.0043
+DXC / DXC Technology Co				0.25		5.14		0.0754	0.0754
+ATNI / ATN International Inc				0.14	13.52	5.13	8.51	0.0752	-0.0137
+AAN / Aarons Company Inc (The)				0.42	19.49	5.11	17.83	0.0749	-0.0066
+SAH / Sonic Automotive, Inc. - Class A				0.10	-45.79	5.11	-30.26	0.0749	-0.0628
+RCUS / Arcus Biosciences Inc				0.25	194.22	5.09	193.71	0.0746	0.0420
+ARVN / Arvinas Inc				0.18	-27.85	5.05	-6.76	0.0740	-0.0278
+TILE / Interface Inc.				0.49	25.30	5.03	86.82	0.0738	0.0231
+HTLD / Heartland Express, Inc.				0.33	68.41	4.93	62.90	0.0723	0.0154
+JHG / Janus Henderson Group plc				0.18	-47.59	4.90	-45.22	0.0719	-0.0964
+TRST / Trustco Bank Corp.				0.17	9.81	4.88	13.15	0.0716	-0.0095
+REX / REX American Resources Corp				0.12	-6.75	4.86	11.80	0.0713	-0.0105
+MCFT / MasterCraft Boat Holdings Inc				0.22	17.64	4.85	-3.41	0.0711	-0.0233
+HSII / Heidrick & Struggles International, Inc.				0.18	-9.77	4.81	-1.46	0.0705	-0.0212
+PFC / Premier Financial Corp				0.25	15.96	4.79	56.75	0.0703	0.0128
+VBTX / Veritex Holdings Inc				0.25	17.63	4.79	28.13	0.0702	-0.0001
+PNT / POINT Biopharma Global Inc				0.60	312.68	4.78	254.37	0.0701	0.0448
+GSBC / Great Southern Bancorp, Inc.				0.09	8.78	4.77	12.89	0.0700	-0.0095
+BBW / Build A Bear Workshop Inc				0.18	15.92	4.75	68.13	0.0696	0.0165
+KELYA / Kelly Services, Inc. - Class A				0.25	6.04	4.69	12.16	0.0687	-0.0098
+MBWM / Mercantile Bank Corp.				0.14	13.33	4.68	45.36	0.0686	0.0081
+CRGY / Crescent Energy Co. - Class A				0.34	27.21	4.68	84.31	0.0686	0.0208
+MBIN / Merchants Bancorp				0.16	9.95	4.64	40.30	0.0681	0.0059
+AMTB / Amerant Bancorp Inc - Class A				0.25	11.52	4.64	18.60	0.0680	-0.0055
+SAFT / Safety Insurance Group, Inc.				0.07	-11.05	4.59	-15.88	0.0673	-0.0353
+HWKN / Hawkins Inc				0.07	54.57	4.57	104.79	0.0671	0.0251
+CTBI / Community Trust Bancorp, Inc.				0.13	12.09	4.57	18.09	0.0670	-0.0058
+MSBI / Midland States Bancorp Inc				0.21	10.87	4.55	27.25	0.0668	-0.0005
+CHCO / City Holding Co.				0.05	-1.23	4.55	4.70	0.0667	-0.0150
+ABCL / AbCellera Biologics Inc				0.83	-27.90	4.53	-43.62	0.0664	-0.0847
+TMP / Tompkins Financial Corp				0.09	12.90	4.51	12.11	0.0661	-0.0095
+HOG / Harley-Davidson, Inc.				0.13	-0.70	4.49	7.74	0.0659	-0.0125
+OSCR / Oscar Health Inc - Class A				0.71	10.32	4.43	-5.74	0.0650	-0.0234
+CPF / Central Pacific Financial Corp.				0.26	9.84	4.42	27.59	0.0648	-0.0003
+BY / Byline Bancorp Inc				0.21	10.25	4.41	31.77	0.0646	0.0017
+LC / LendingClub Corp				0.62	35.27	4.35	14.82	0.0637	-0.0075
+RES / RPC, Inc.				0.54	59.81	4.29	92.07	0.0629	0.0209
+GDOT / Green Dot Corp. - Class A				0.29	-14.92	4.29	-30.73	0.0628	-0.0535
+FDP / Fresh Del Monte Produce Inc				0.17	-0.72	4.26	-3.77	0.0625	-0.0208
+FMBH / First Mid Bancshares Inc.				0.15	14.40	4.23	33.39	0.0620	0.0024
+LKFN / Lakeland Financial Corp.				0.08	9.28	4.23	13.42	0.0619	-0.0081
+AMBC / AMBAC Financial Group Inc.				0.33	28.54	4.20	18.83	0.0616	-0.0049
+HIBB / Hibbett Inc				0.09	-41.30	4.20	-24.53	0.0616	-0.0431
+SEB / Seaboard Corp.				0.00	58.23	4.17	57.02	0.0611	0.0112
+EGY / VAALCO Energy, Inc.				1.00	23.12	4.15	32.05	0.0609	0.0018
+HDSN / Hudson Technologies, Inc.				0.34	47.10	4.15	102.99	0.0608	0.0224
+DTM / DT Midstream Inc				0.08		4.14		0.0607	0.0607
+DHIL / Diamond Hill Investment Group, Inc. - Class A				0.02	7.60	4.11	14.37	0.0602	-0.0073
+UCBI / United Community Banks Inc				0.15	-1.24	4.09	17.93	0.0600	-0.0052
+PGC / Peapack-Gladstone Financial Corp.				0.15	12.44	4.04	16.21	0.0592	-0.0061
+SFNC / Simmons First National Corp. - Class A				0.23	-1.26	4.03	8.13	0.0591	-0.0110
+UVSP / Univest Financial Corp				0.22	14.95	4.02	16.62	0.0590	-0.0059
+WASH / Washington Trust Bancorp, Inc.				0.14	12.83	4.01	24.08	0.0589	-0.0020
+DFH / Dream Finders Homes Inc - Class A				0.14	1,256.48	3.98	2,014.36	0.0583	0.0547
+WNC / Wabash National Corp.				0.18	103.46	3.97	95.71	0.0582	0.0200
+PNFP / Pinnacle Financial Partners Inc.				0.06		3.97		0.0582	0.0582
+GDEN / Golden Entertainment Inc				0.11	1,415.01	3.94	1,209.63	0.0578	0.0521
+STBA / S & T Bancorp, Inc.				0.14	45.41	3.87	53.60	0.0567	0.0094
+RMAX / RE/MAX Holdings Inc - Class A				0.23	14.54	3.78	-0.71	0.0554	-0.0162
+IBCP / Independent Bank Corporation (Ionia, MI)				0.20	9.30	3.78	27.62	0.0554	-0.0003
+CMRE / Costamare Inc				0.36	33.20	3.75	77.88	0.0550	0.0153
+PRK / Park National Corp.				0.04	-1.25	3.73	1.78	0.0546	-0.0142
+PRA / Proassurance Corporation				0.21	-7.21	3.71	35.02	0.0543	0.0027
+MCS / Marcus Corp.				0.24	11.36	3.67	10.70	0.0538	-0.0085
+TPC / Tutor Perini Corp				0.41	-1.50	3.67	62.17	0.0537	0.0112
+PUBM / PubMatic Inc - Class A				0.26	1.40	3.62	-19.70	0.0531	-0.0317
+RGNX / Regenxbio Inc				0.20	-24.88	3.59	-22.83	0.0526	-0.0348
+STC / Stewart Information Services Corp.				0.08	-22.22	3.58	-19.65	0.0525	-0.0313
+CASS / Cass Information Systems Inc				0.09	-1.46	3.58	-2.16	0.0524	-0.0163
+CAC / Camden National Corp.				0.11	15.45	3.57	28.29	0.0524	0.0000
+NFBK / Northfield Bancorp Inc				0.33	13.32	3.51	16.76	0.0515	-0.0051
+ECPG / Encore Capital Group, Inc.				0.07	-55.87	3.50	-52.00	0.0513	-0.0857
+RBCAA / Republic Bancorp, Inc. (KY) - Class A				0.08	10.27	3.45	16.31	0.0506	-0.0052
+VPG / Vishay Precision Group Inc				0.10	-0.92	3.44	2.23	0.0505	-0.0129
+CFB / Crossfirst Bankshares Inc				0.32	15.15	3.44	28.39	0.0504	0.0001
+CRTO / Criteo S.A - ADR				0.19	13.98	3.44	43.66	0.0504	0.0054
+TCBK / Trico Bancshares				0.10	38.00	3.38	45.55	0.0496	0.0059
+SCVL / Shoe Carnival, Inc.				0.15	2.66	3.36	21.36	0.0493	-0.0028
+MDU / MDU Resources Group Inc				0.16		3.35		0.0491	0.0491
+AVD / American Vanguard Corp.				0.24	-2.72	3.35	-21.20	0.0491	-0.0308
+CVGI / Commercial Vehicle Group Inc				0.36	57.25	3.34	47.66	0.0490	0.0064
+THFF / First Financial Corp. - Indiana				0.09	15.16	3.33	30.37	0.0488	0.0008
+HBNC / Horizon Bancorp Inc (IN)				0.30	16.08	3.32	46.09	0.0487	0.0060
+FFIC / Flushing Financial Corp.				0.23	13.09	3.31	37.12	0.0485	0.0031
+DRQ / Dril-Quip, Inc.				0.12	-55.54	3.25	-45.14	0.0476	-0.0637
+GIII / G-III Apparel Group Ltd.				0.16	41.82	3.23	75.05	0.0473	0.0127
+LMB / Limbach Holdings Inc				0.09	84.75	3.22	220.64	0.0472	0.0283
+APAM / Artisan Partners Asset Management Inc - Class A				0.08	-1.18	3.20	18.64	0.0469	-0.0038
+CCNE / CNB Financial Corp (PA)				0.18	14.39	3.20	25.44	0.0469	-0.0011
+OSG / Overseas Shipholding Group, Inc. - Class A				0.72	15.45	3.17	39.59	0.0465	0.0038
+BFST / Business First Bancshares Inc.				0.15	15.10	3.14	61.57	0.0461	0.0095
+MCB / Metropolitan Bank Holding Corp				0.08	15.23	3.11	62.10	0.0456	0.0095
+SB / Safe Bulkers, Inc				0.96	17.33	3.08	18.80	0.0452	-0.0036
+TK / Teekay Corp				0.48	103.55	3.08	132.58	0.0452	0.0203
+KFRC / Kforce Inc.				0.05	-26.59	3.07	-20.14	0.0451	-0.0273
+SRCE / 1st Source Corp.				0.07	10.01	3.07	19.53	0.0451	-0.0033
+EBF / Ennis Inc.				0.14	-0.69	3.06	9.21	0.0449	-0.0078
+IPI / Intrepid Potash Inc				0.11	13.06	3.04	72.56	0.0445	0.0114
+EQBK / Equity Bancshares Inc - Class A				0.12	14.35	3.01	28.04	0.0442	-0.0001
+WABC / Westamerica Bancorporation				0.07	266.46	3.00	326.42	0.0440	0.0308
+FMNB / Farmers National Banc Corp.				0.24	9.28	2.98	17.80	0.0438	-0.0039
+MED / Medifast Inc				0.04	2,170.94	2.97	2,336.07	0.0436	0.0413
+DXLG / Destination XL Group Inc				0.65	16.12	2.96	27.29	0.0434	-0.0003
+HNRG / Hallador Energy Co				0.27	14.17	2.95	57.39	0.0433	0.0080
+FBK / FB Financial Corp				0.10	3.81	2.94	18.33	0.0432	-0.0036
+PRI / Primerica Inc				0.01	-0.86	2.94	9.46	0.0431	-0.0074
+SMBC / Southern Missouri Bancorp, Inc.				0.07	8.11	2.85	23.09	0.0418	-0.0017
+CATC / Cambridge Bancorp				0.05	15.28	2.84	21.35	0.0417	-0.0024
+UTI / Universal Technical Institute Inc				0.35	2.15	2.81	26.59	0.0413	-0.0005
+LGND / Ligand Pharmaceuticals, Inc. - Class B				0.04	-16.36	2.81	-21.49	0.0412	-0.0261
+EPM / Evolution Petroleum Corporation				0.33	15.24	2.81	24.35	0.0412	-0.0013
+FFWM / First Foundation Inc				0.35	15.18	2.78	133.39	0.0408	0.0184
+CGEM / Cullinan Oncology Inc				0.27	-11.32	2.75	-10.72	0.0403	-0.0176
+AMCX / AMC Networks Inc - Class A				0.23	39.53	2.73	43.61	0.0400	0.0043
+NBN / Northeast Bank				0.06	8.77	2.73	28.95	0.0400	0.0002
+HONE / HarborOne Bancorp Inc.				0.27	-0.11	2.71	21.43	0.0398	-0.0022
+CARE / Carter Bankshares Inc				0.19	18.99	2.70	20.77	0.0396	-0.0024
+IMMR / Immersion Corp				0.38	12.68	2.64	11.72	0.0387	-0.0057
+WOR / Worthington Industries, Inc.				0.03	112,470.97	2.63	262,500.00	0.0385	0.0385
+LPRO / Open Lending Corp				0.32	14.47	2.61	-6.86	0.0382	-0.0144
+LEGH / Legacy Housing Corp				0.11	29.30	2.61	53.93	0.0382	0.0064
+NWPX / Northwest Pipe Co.				0.08	29.36	2.59	61.21	0.0380	0.0078
+NAT / Nordic American Tankers Ltd				0.66	31.35	2.59	112.23	0.0379	-0.0081
+SBSI / Southside Bancshares Inc				0.09	-0.18	2.57	13.38	0.0376	-0.0049
+ESQ / Esquire Financial Holdings Inc				0.05	19.14	2.53	31.64	0.0372	0.0010
+HTBI / HomeTrust Bancshares Inc				0.11	14.04	2.53	33.03	0.0370	0.0013
+CMP / Compass Minerals International Inc				0.08	1,643.97	2.50	1,556.95	0.0367	0.0339
+FISI / Financial Institutions Inc.				0.14	10.08	2.50	22.64	0.0366	-0.0017
+FLIC / First Of Long Island Corp.				0.19	9.52	2.49	40.08	0.0364	0.0031
+SMBK / SmartFinancial Inc				0.11	5.98	2.47	14.40	0.0362	-0.0044
+UFCS / United Fire Group Inc				0.12	-11.47	2.43	-18.53	0.0357	-0.0205
+NR / Newpark Resources, Inc.				0.41	99.28	2.42	244.32	0.0356	0.0223
+ULH / Universal Logistics Holdings Inc				0.09	22.36	2.42	25.03	0.0355	-0.0009
+RYAM / Rayonier Advanced Materials Inc				0.68	16.45	2.38	20.89	0.0350	-0.0021
+FBMS / First Bancshares Inc Miss				0.08	-1.27	2.38	7.61	0.0348	-0.0067
+AAOI / Applied Optoelectronics Inc				0.17		2.32		0.0340	0.0340
+WKC / World Kinect Corp				0.10	143.51	2.28	133.27	0.0334	0.0150
+US75134P6007 / Ramaco Resources, Inc.				0.29		2.23		0.0328	0.0328
+ASC / Ardmore Shipping Corp				0.18	183.53	2.22	201.22	0.0326	0.0187
+AROW / Arrow Financial Corp.				0.13	13.75	2.21	9.82	0.0325	-0.0054
+VYGR / Voyager Therapeutics Inc				0.22	6,464.63	2.19	5,829.73	0.0322	0.0315
+GPRO / GoPro Inc. - Class A				0.60	-24.38	2.18	-34.56	0.0320	-0.0307
+HPK / HighPeak Energy Inc				0.15	16.57	2.18	39.14	0.0320	0.0025
+PANL / Pangaea Logistics Solutions Ltd				0.38	25.31	2.15	23.17	0.0315	-0.0013
+HTBK / Heritage Commerce Corp.				0.25	31.73	2.14	56.86	0.0314	0.0057
+RLGT / Radiant Logistics, Inc.				0.32	179.20	2.14	201.55	0.0313	0.0180
+NRIM / Northrim Bancorp, Inc.				0.05	7.84	2.13	18.19	0.0312	-0.0027
+CCB / Coastal Financial Corp				0.05	62.94	2.13	109.75	0.0312	0.0121
+KRNY / Kearny Financial Corp.				0.29	-1.27	2.11	7.10	0.0310	-0.0061
+ZIMV / ZimVie Inc				0.18	109.64	2.11	148.06	0.0310	0.0149
+EVC / Entravision Communications Corp. - Class A				0.55	-11.43	2.11	-17.86	0.0310	-0.0174
+ALRS / Alerus Financial Corp				0.11	14.47	2.11	33.90	0.0309	0.0013
+SPFI / South Plains Financial Inc				0.08	20.38	2.09	42.43	0.0306	0.0031
+OIS / Oil States International, Inc.				0.26	40.16	2.07	72.77	0.0303	0.0078
+ODC / Oil-Dri Corp. Of America				0.03	230.72	2.04	487.07	0.0300	0.0234
+BSRR / Sierra Bancorp				0.10	4.83	2.03	30.32	0.0298	0.0005
+BMRC / Bank of Marin Bancorp				0.11	15.92	2.01	34.97	0.0295	0.0015
+OPY / Oppenheimer Holdings Inc - Class A				0.05	-1.06	2.01	-3.88	0.0294	-0.0098
+RM / Regional Management Corp				0.07	9.00	2.00	14.59	0.0294	-0.0035
+BKD / Brookdale Senior Living Inc				0.47	1,021.32	2.00	1,290.28	0.0294	0.0266
+REVG / REV Group Inc				0.15	-13.46	1.98	15.90	0.0291	-0.0031
+MOFG / MidWestOne Financial Group Inc				0.09	7.04	1.98	21.14	0.0291	-0.0017
+BHB / Bar Harbor Bankshares Inc				0.08	28.57	1.98	35.18	0.0290	0.0015
+CVEO / Civeo Corp				0.11	10.80	1.97	0.41	0.0289	-0.0080
+CMA / Comerica, Inc.				0.04	-1.21	1.96	31.67	0.0287	0.0007
+FRME / First Merchants Corp.				0.06		1.93		0.0283	0.0283
+GLDD / Great Lakes Dredge & Dock Corporation				0.22	-6.11	1.92	30.73	0.0282	0.0005
+REI / Ring Energy Inc				1.01	15.76	1.91	28.66	0.0280	0.0001
+BWB / Bridgewater Bancshares Inc				0.18	6.05	1.90	28.86	0.0279	0.0001
+FBIZ / First Business Financial Services Inc				0.06	0.00	1.89	17.76	0.0277	-0.0025
+CVBF / CVB Financial Corp.				0.11		1.88		0.0276	0.0276
+CMT / Core Molding Technologies				0.07	86.61	1.88	175.07	0.0275	0.0147
+USLM / United States Lime & Minerals Inc.				0.01	8.42	1.87	29.48	0.0274	0.0003
+MCBC / Macatawa Bank Corp.				0.20	0.00	1.87	5.00	0.0274	-0.0061
+STR / Sitio Royalties Corp - Class A				0.07	-34.18	1.84	-34.39	0.0269	-0.0257
+WTBA / West Bancorporation				0.10	0.19	1.78	10.42	0.0261	-0.0042
+PRAA / PRA Group Inc				0.09	-43.35	1.76	-40.98	0.0258	-0.0303
+VLGEA / Village Super Market, Inc. - Class A				0.08	3.33	1.75	12.26	0.0257	-0.0037
+FBNC / First Bancorp				0.06	-1.76	1.75	-3.27	0.0256	-0.0083
+ZUMZ / Zumiez Inc				0.09	-11.97	1.73	4.03	0.0254	-0.0059
+QUAD / Quad/Graphics Inc - Class A				0.34	22.47	1.72	91.53	0.0252	0.0083
+SFST / Southern First Bancshares Inc				0.06	3.91	1.72	27.19	0.0252	-0.0002
+MVBF / MVB Financial Corp.				0.07	-1.40	1.71	30.71	0.0251	0.0005
+JAKK / Jakks Pacific Inc.				0.09	28.24	1.71	22.25	0.0251	-0.0012
+MPB / Mid Penn Bancorp, Inc.				0.08	22.57	1.68	21.05	0.0246	-0.0015
+WSBF / Waterstone Financial Inc				0.13	-1.70	1.66	-9.76	0.0244	-0.0103
+HMN / Horace Mann Educators Corp.				0.06	-41.99	1.65	-44.69	0.0242	-0.0319
+RBB / RBB Bancorp				0.12	1.72	1.65	32.85	0.0241	0.0008
+HMST / HomeStreet Inc				0.17	6.15	1.64	91.49	0.0241	0.0080
+FIBK / First Interstate BancSystem Inc.				0.06	27,934.38	1.63	17,977.78	0.0239	0.0236
+REPX / Riley Exploration Permian Inc.				0.05	30.13	1.62	30.17	0.0237	0.0004
+RICK / RCI Hospitality Holdings Inc				0.02	-1.07	1.61	-10.61	0.0236	-0.0102
+PAX / Patria Investments Ltd - Class A				0.11		1.60		0.0235	0.0235
+MCBS / MetroCity Bankshares Inc				0.08	0.00	1.59	18.72	0.0234	-0.0019
+SMMF / Summit Financial Group Inc				0.06	0.00	1.59	29.08	0.0233	0.0001
+HOFT / Hooker Furnishings Corporation				0.07	52.58	1.59	121.17	0.0233	0.0098
+NMRK / Newmark Group Inc - Class A				0.22	-10.00	1.58	11.49	0.0232	-0.0035
+AMSF / Amerisafe Inc				0.03	-1.20	1.57	0.25	0.0231	-0.0064
+FSBW / FS Bancorp Inc				0.05	0.00	1.57	4.39	0.0230	-0.0053
+BCBP / BCB Bancorp Inc (NJ)				0.14	5.24	1.55	12.91	0.0227	-0.0031
+ASRT / Assertio Holdings Inc				0.47	-28.45	1.53	-62.92	0.0225	-0.0553
+HIFS / Hingham Institution For Savings				0.01	3.66	1.52	7.10	0.0223	-0.0044
+XPER / Xperi Inc				0.13	-3.18	1.52	-3.37	0.0223	-0.0073
+BBSI / Barrett Business Services Inc.				0.02	332.45	1.51	393.77	0.0221	0.0163
+KD / Kyndryl Holdings Inc				0.09		1.50		0.0220	0.0220
+CSTR / CapStar Financial Holdings Inc				0.11	4.70	1.47	13.47	0.0216	-0.0028
+EGRX / Eagle Pharmaceuticals Inc				0.09	17.45	1.47	-4.04	0.0216	-0.0073
+JELD / JELD-WEN Holding Inc.				0.10	373.46	1.45	445.49	0.0213	0.0163
+KRO / Kronos Worldwide, Inc.				0.17	-16.19	1.45	-14.66	0.0213	-0.0107
+FF / Futurefuel Corp				0.20	-14.29	1.44	-28.49	0.0211	-0.0167
+HZO / Marinemax, Inc.				0.04	-49.40	1.43	-40.68	0.0209	-0.0243
+PTSI / P.A.M. Transportation Services, Inc.				0.06	0.00	1.42	-11.82	0.0208	-0.0095
+HBT / HBT Financial Inc				0.08	16.84	1.41	24.14	0.0207	-0.0007
+GIC / Global Industrial Co				0.04	301.29	1.41	447.29	0.0207	0.0158
+CRCT / Cricut Inc - Class A				0.15	2,349.89	1.41	2,366.67	0.0206	0.0195
+NGVC / Natural Grocers by Vitamin Cottage Inc				0.11	0.00	1.41	14.13	0.0206	-0.0026
+TRDA / Entrada Therapeutics Inc				0.10	2,677.85	1.40	3,500.00	0.0206	0.0199
+PCB / PCB Bancorp.				0.09	0.00	1.38	13.91	0.0203	-0.0026
+EBS / Emergent Biosolutions Inc				0.29	-6.42	1.37	-48.57	0.0201	-0.0300
+INBK / First Internet Bancorp				0.07	4.15	1.35	63.39	0.0198	0.0042
+SIGA / SIGA Technologies Inc				0.29	-22.41	1.31	-36.50	0.0192	-0.0196
+ACNB / ACNB Corp.				0.04	0.00	1.28	8.02	0.0188	-0.0035
+ORRF / Orrstown Financial Services, Inc.				0.06	0.00	1.27	19.36	0.0186	-0.0014
+FLL / Full House Resorts, Inc.				0.26	20.73	1.27	-17.86	0.0186	-0.0105
+SPWH / Sportsman`s Warehouse Holdings Inc				0.26	16.80	1.26	23.94	0.0185	-0.0006
+NC / Nacco Industries Inc. - Class A				0.04	-0.28	1.21	3.42	0.0177	-0.0043
+TLYS / Tillys Inc - Class A				0.13	-17.95	1.19	-5.41	0.0174	-0.0062
+SHBI / Shore Bancshares Inc.				0.11	4.84	1.19	3.21	0.0174	-0.0042
+TAST / Carrols Restaurant Group Inc.				0.17	87.36	1.19	137.95	0.0174	0.0080
+SOI / Solaris Oilfield Infrastructure Inc - Class A				0.11	215.35	1.18	353.67	0.0172	0.0124
+STKS / ONE Group Hospitality Inc				0.17	13.73	1.14	10.30	0.0166	-0.0027
+PACW / Pacwest Bancorp				0.14		1.13		0.0166	0.0166
+NETI / Eneti Inc				0.10	211.99	1.13	257.78	0.0165	0.0106
+UNTY / Unity Bancorp, Inc.				0.05	0.00	1.11	6.24	0.0162	-0.0034
+BGFV / Big 5 Sporting Goods Corp				0.14	-0.69	1.10	4.16	0.0162	-0.0037
+NEWT / NewtekOne Inc				0.06		1.10		0.0161	0.0161
+HBCP / Home Bancorp Inc				0.03	0.00	1.09	6.12	0.0160	-0.0033
+CVCY / Central Valley Community Bancorp				0.07	0.00	1.09	1.30	0.0160	-0.0042
+US8309401029 / Skyward Specialty Insurance Group, Inc.				0.04		1.08		0.0159	0.0159
+MEC / Mayville Engineering Company Inc				0.09	9.02	1.07	10.28	0.0157	-0.0026
+CTRN / Citi Trends Inc				0.05	20.43	1.06	78.25	0.0155	0.0043
+PLUS / ePlus Inc				0.02	873.57	1.04	1,288.00	0.0153	0.0124
+UEIC / Universal Electronics Inc.				0.12	15.95	1.03	27.88	0.0151	-0.0000
+RRGB / Red Robin Gourmet Burgers Inc				0.10	-2.02	1.03	-19.84	0.0151	-0.0090
+CIVB / Civista Bancshares Inc				0.06	0.00	1.02	13.43	0.0150	-0.0020
+PKBK / Parke Bancorp Inc				0.06	3.33	1.02	11.10	0.0150	-0.0023
+FSBC / Five Star Bancorp				0.05	19.01	0.99	36.18	0.0145	0.0008
+SSB / SouthState Corporation				0.01	-1.08	0.97	14.45	0.0143	-0.0017
+BCML / BayCom Corp				0.05	49.05	0.97	77.29	0.0142	0.0039
+ATLC / Atlanticus Holdings Corp				0.03	8.99	0.96	8.72	0.0141	-0.0025
+BWFG / Bankwell Financial Group Inc				0.04	0.00	0.92	13.97	0.0135	-0.0017
+IBEX / IBEX Ltd				0.05	44.56	0.92	38.05	0.0135	0.0010
+BSET / Bassett Furniture Industries Inc.				0.06	-4.15	0.91	8.18	0.0134	-0.0025
+WSTG / Wayside Technology Group Inc				0.02	1,091.78	0.91	996.39	0.0134	0.0118
+AMNB / American National Bankshares Inc.				0.02	8.39	0.90	47.95	0.0133	0.0018
+VNDA / Vanda Pharmaceuticals Inc				0.17	1,531.71	0.90	1,325.40	0.0132	0.0120
+CABO / Cable One Inc				0.00	0.00	0.88	6.38	0.0130	-0.0027
+LINC / Lincoln Educational Services Corp				0.10	190.40	0.87	288.34	0.0127	0.0085
+CVLY / Codorus Valley Bancorp, Inc.				0.04	0.00	0.86	13.94	0.0126	-0.0016
+GNTY / Guaranty Bancshares, Inc. (TX)				0.03	56.09	0.85	86.78	0.0124	0.0039
+DOUG / Douglas Elliman Inc				0.34	-18.95	0.85	-30.12	0.0124	-0.0104
+FRST / Primis Financial Corp				0.09	-1.15	0.83	19.14	0.0121	-0.0009
+FCBC / First Community Bankshares Inc.				0.03	-1.18	0.83	14.68	0.0121	-0.0014
+CATO / Cato Corp. - Class A				0.11	-0.70	0.83	-4.51	0.0121	-0.0042
+TCS / Container Store Group Inc				0.35	17.18	0.82	11.41	0.0120	-0.0018
+PPC / Pilgrim`s Pride Corp.				0.03	-69.80	0.80	-65.79	0.0117	-0.0320
+FHB / First Hawaiian INC				0.04		0.79		0.0116	0.0116
+ORGO / Organogenesis Holdings Inc - Class A				0.28	-8.81	0.79	-29.64	0.0116	-0.0096
+MLR / Miller Industries Inc.				0.02	-0.57	0.77	21.07	0.0113	-0.0007
+RVSB / Riverview Bancorp, Inc.				0.12	0.00	0.71	26.47	0.0104	-0.0001
+DHT / DHT Holdings Inc				0.07	-43.85	0.69	-32.49	0.0101	-0.0091
+GABC / German American Bancorp Inc				0.02		0.69		0.0100	0.0100
+LBC / Luther Burbank Corp				0.08	0.00	0.68	5.73	0.0100	-0.0021
+APEI / American Public Education Inc				0.13	-0.99	0.67	4.04	0.0098	-0.0023
+OPBK / OP Bancorp				0.07	0.00	0.66	20.40	0.0097	-0.0006
+CMLS / Cumulus Media Inc. - Class A				0.14	2.62	0.66	47.87	0.0097	0.0013
+PIPR / Piper Sandler Co`s				0.00	-95.94	0.66	-95.25	0.0097	-0.2517
+TSBK / Timberland Bancorp, Inc.				0.02	71.85	0.66	106.60	0.0096	0.0037
+RNGR / Ranger Energy Services Inc - Class A				0.05	328.03	0.65	360.99	0.0095	0.0069
+ARIS / Aris Water Solutions Inc - Class A				0.06		0.65		0.0095	0.0095
+EBTC / Enterprise Bancorp, Inc.				0.02	6.03	0.63	15.48	0.0093	-0.0010
+MPAA / Motorcar Parts of America Inc.				0.08	15.77	0.63	65.71	0.0093	0.0021
+MTW / Manitowoc Co., Inc.				0.04	-11.22	0.63	4.66	0.0092	-0.0021
+US75134P5017 / Ramaco Resources, Inc.				0.06		0.62		0.0090	0.0090
+INDB / Independent Bank Corp.				0.01	4,622.36	0.60	3,255.56	0.0089	0.0084
+LSTR / Landstar System, Inc.				0.00	-0.56	0.60	7.66	0.0089	-0.0017
+FUSB / First US Bancshares Inc				0.08	0.00	0.60	14.53	0.0088	-0.0011
+TG / Tredegar Corp.				0.12	-25.05	0.59	-46.42	0.0087	-0.0121
+CPSS / Consumer Portfolio Service, Inc.				0.06	0.00	0.58	-20.19	0.0085	-0.0051
+FRAF / Franklin Financial Services Corp.				0.02	0.00	0.57	11.74	0.0084	-0.0012
+FUNC / First United Corporation				0.04	0.00	0.57	24.84	0.0083	-0.0002
+BANF / Bancfirst Corp.				0.01	81.23	0.56	105.09	0.0083	0.0031
+GTE / Gran Tierra Energy Inc				0.09	5,009.00	0.56	6,912.50	0.0082	0.0081
+TH / Target Hospitality Corp - Class A				0.04	387.95	0.56	450.50	0.0082	0.0063
+CMCL / Caledonia Mining Corporation Plc				0.05		0.55		0.0081	0.0081
+VRA / Vera Bradley Inc				0.08	-0.68	0.55	50.00	0.0081	0.0012
+SNCY / Sun Country Airlines Holdings Inc				0.04	634.16	0.55	484.04	0.0081	0.0063
+ITOS / ITeos Therapeutics Inc				0.04	-45.33	0.54	-59.47	0.0079	-0.0171
+TCBX / Third Coast Bancshares Inc				0.03	5.43	0.53	22.51	0.0077	-0.0004
+HWBK / Hawthorn Bancshares Inc				0.03	4.00	0.52	-4.62	0.0076	-0.0026
+CNXN / PC Connection, Inc.				0.01	213.99	0.52	271.22	0.0076	0.0050
+GAMB / Gambling.com Group Ltd				0.04	1,909.81	0.51	2,755.56	0.0075	0.0072
+PRTS / CarParts.com Inc				0.11		0.51		0.0075	0.0075
+CONN / Conns Inc				0.12	-1.49	0.50	1.42	0.0073	-0.0019
+KALU / Kaiser Aluminum Corp				0.01	-62.54	0.50	-52.89	0.0073	-0.0126
+BFIN / Bankfinancial Corp				0.06	0.00	0.49	19.17	0.0072	-0.0005
+LSEA / Landsea Homes Corporation - Class A				0.05		0.49		0.0072	0.0072
+FNLC / First Bancorp Inc (ME)				0.02	0.00	0.49	3.82	0.0072	-0.0017
+FONR / Fonar Corp.				0.03	-0.10	0.49	-3.94	0.0072	-0.0024
+HFWA / Heritage Financial Corp.				0.03		0.49		0.0072	0.0072
+CCBG / Capital City Bank Group, Inc.				0.02	-1.17	0.49	0.41	0.0071	-0.0020
+SMP / Standard Motor Products, Inc.				0.01	55.23	0.46	49.68	0.0068	0.0003
+EPSED / Epsilon Energy Ltd				0.08	0.00	0.45	9.98	0.0066	-0.0011
+NIC / Nicolet Bankshares Inc.				0.01	-0.92	0.45	21.08	0.0066	-0.0004
+OVLY / Oak Valley Bancorp				0.02	34.10	0.44	46.03	0.0065	0.0008
+LAKE / Lakeland Industries, Inc.				0.03	-1.30	0.44	26.30	0.0064	-0.0001
+FRBA / First Bank (NJ)				0.04	626.30	0.44	722.64	0.0064	0.0054
+LFVN / Lifevantage Corporation				0.06	0.00	0.44	58.76	0.0064	0.0012
+CBFV / CB Financial Services Inc				0.02	0.00	0.43	11.75	0.0063	-0.0009
+FVCB / FVCBankcorp Inc				0.03	-0.82	0.42	18.08	0.0061	-0.0005
+DLTH / Duluth Holdings Inc - Class B				0.06	-0.68	0.41	17.05	0.0060	-0.0006
+CRD.A / Crawford & Co. - Class A				0.04	32.03	0.41	43.16	0.0060	0.0006
+MPX / Marine Products Corp				0.03		0.41		0.0060	0.0060
+CCRD / CoreCard Corporation - Class A				0.02	-9.41	0.41	-19.92	0.0060	-0.0036
+HY / Hyster-Yale Materials Handling Inc - Class A				0.01	-0.43	0.40	-2.71	0.0058	-0.0018
+TBNK / Territorial Bancorp Inc				0.04	-0.17	0.39	-4.61	0.0058	-0.0020
+US67623L3078 / Offerpad Solutions, Inc.				0.03		0.37		0.0055	0.0055
+GHM / Graham Corp.				0.02	0.00	0.36	44.18	0.0053	0.0006
+RCKY / Rocky Brands, Inc				0.02	101.47	0.36	87.37	0.0052	0.0016
+SCS / Steelcase, Inc. - Class A				0.04	149.25	0.35	102.87	0.0052	-0.0033
+LE / Lands` End, Inc.				0.04		0.34		0.0051	0.0051
+UFI / UNIFI, Inc.				0.05	50.16	0.34	44.73	0.0050	0.0006
+OPRT / Oportun Financial Corp				0.05	-56.20	0.33	-46.46	0.0049	-0.0068
+TTI / Tetra Technologies, Inc.				0.05		0.30		0.0043	0.0043
+ALEC / Alector Inc				0.05	-50.60	0.30	-63.81	0.0043	-0.0110
+BVS / Bioventus Inc - Class A				0.08	352.39	0.29	512.77	0.0042	0.0033
+PRPH / ProPhase Labs Inc				0.07	-10.52	0.28	-59.68	0.0041	-0.0090
+NATR / Nature`s Sunshine Products, Inc.				0.02	0.00	0.28	50.27	0.0041	0.0006
+NWFL / Norwood Financial Corp.				0.01	6.21	0.28	19.57	0.0040	-0.0003
+CBAN / Colony Bankcorp, Inc.				0.03	0.00	0.27	12.30	0.0040	-0.0006
+NGS / Natural Gas Services Group, Inc.				0.02	47.91	0.26	59.39	0.0039	0.0007
+NWBI / Northwest Bancshares Inc				0.02	-1.22	0.26	3.17	0.0038	-0.0009
+OBT / Orange County Bancorp Inc				0.01		0.26		0.0037	0.0037
+MEI / Methode Electronics, Inc.				0.01	-77.35	0.25	-83.08	0.0037	-0.0244
+LNDC / Landec Corp.				0.03		0.25		0.0037	0.0037
+GCO / Genesco Inc.				0.01	-87.47	0.25	-76.25	0.0036	-0.0159
+CZFS / Citizens Financial Services, Inc.				0.00	-8.41	0.25	-33.33	0.0036	-0.0033
+GLRE / Greenlight Capital Re Ltd - Class A				0.02	29.50	0.23	49.04	0.0034	0.0005
+LYTS / LSI Industries Inc.				0.01	-0.08	0.23	35.54	0.0033	0.0002
+CRUS / Cirrus Logic, Inc.				0.00	-84.61	0.23	-83.77	0.0033	-0.0228
+NBHC / National Bank Holdings Corp - Class A				0.01	-2.40	0.22	2.87	0.0032	-0.0008
+XOMA / XOMA Corp				0.01	-21.88	0.21	-35.80	0.0031	-0.0030
+ITIC / Investors Title Co.				0.00	0.00	0.20	8.51	0.0030	-0.0005
+BSVN / Bank7 Corp				0.01	226.04	0.20	260.71	0.0030	0.0019
+OCUP / Ocuphire Pharma Inc				0.05		0.20		0.0029	0.0029
+CHMG / Chemung Financial Corp.				0.00	0.00	0.20	10.80	0.0029	-0.0004
+PLPC / Preformed Line Products Co.				0.00	435.55	0.19	496.88	0.0028	0.0022
+ASO / Academy Sports and Outdoors Inc				0.00	-99.34	0.19	-99.27	0.0027	-0.4771
+PHX / PHX Minerals Inc - Class A				0.05	0.00	0.18	22.82	0.0027	-0.0001
+AOUT / American Outdoor Brands Inc				0.02	0.00	0.18	35.61	0.0026	0.0001
+VTNR / Vertex Energy Inc				0.04	-79.01	0.17	-86.25	0.0026	-0.0212
+AUB / Atlantic Union Bankshares Corp				0.01	-90.73	0.17	-89.29	0.0025	-0.0277
+X / United States Steel Corp.				0.01	-0.06	0.17	49.11	0.0025	0.0003
+VHI / Valhi, Inc.				0.01	-0.10	0.17	6.41	0.0024	-0.0005
+LCUT / Lifetime Brands, Inc.				0.03		0.16		0.0024	0.0024
+OCN / Ocwen Financial Corp.				0.01	-86.28	0.16	-84.24	0.0023	-0.0163
+GLT / Glatfelter Corporation				0.07	660.56	0.15	428.57	0.0022	0.0017
+CNTY / Century Casinos Inc.				0.02	-17.71	0.14	-21.23	0.0021	-0.0013
+MFIN / Medallion Financial Corp.				0.02	36.76	0.14	80.52	0.0020	0.0006
+JOUT / Johnson Outdoors Inc - Class A				0.00	46.22	0.14	-0.73	0.0020	-0.0032
+IMXI / International Money Express Inc.				0.01	-41.99	0.13	-57.10	0.0020	-0.0039
+PNRG / PrimeEnergy Resources Corp				0.00	17.92	0.13	25.00	0.0019	-0.0000
+GCBC / Greene County Bancorp Inc				0.00	-0.07	0.13	8.40	0.0019	-0.0004
+WTTR / Select Water Solutions Inc - Class A				0.02	29,417.65	0.12		0.0018	0.0018
+RRBI / Red River Bancshares Inc				0.00	0.00	0.12	-3.25	0.0017	-0.0006
+PKOH / Park-Ohio Holdings Corp.				0.01	6.53	0.12	-5.60	0.0017	-0.0043
+GRNT / Granite Ridge Resources Inc - Class A				0.02		0.12		0.0017	0.0017
+DGICA / Donegal Group Inc. - Class A				0.01	-34.66	0.11	-33.33	0.0017	-0.0016
+STL / Sterling Bancorp.				0.02	-27.95	0.11	-15.27	0.0016	-0.0008
+BWEN / Broadwind Inc				0.02	212.54	0.11	289.29	0.0016	0.0011
+HEAR / Turtle Beach Corp				0.01	-55.46	0.11	-81.99	0.0016	-0.0272
+PFIS / Peoples Financial Services Corp				0.00		0.11		0.0016	0.0016
+CULP / Culp Inc.				0.02	0.00	0.10	30.00	0.0015	0.0000
+RMR / RMR Group Inc (The) - Class A				0.00	442.78	0.10	372.73	0.0015	0.0007
+BTBT / Bit Digital Inc				0.04		0.10		0.0015	0.0015
+WOW / WideOpenWest Inc				0.01	131.15	0.10	145.24	0.0015	0.0007
+ATLO / Ames National Corp.				0.01	104.16	0.10	102.04	0.0015	0.0005
+JRVR / James River Group Holdings Ltd				0.01	-78.09	0.09	-83.45	0.0014	-0.0092
+OSUR / Orasure Technologies Inc.				0.01		0.09		0.0014	0.0014
+SWIM / Latham Group Inc				0.02		0.09		0.0014	0.0014
+AE / Adams Resources & Energy Inc.				0.00	0.00	0.09	4.88	0.0013	-0.0003
+EAF / GrafTech International Ltd.				0.02	-0.09	0.08	-17.17	0.0012	-0.0007
+DAKT / Daktronics Inc.				0.01	0.00	0.08	33.33	0.0012	0.0000
+US68218J2024 / OmniAb, Inc.				0.02	0.00	0.08	36.36	0.0011	0.0001
+US68218J3014 / OmniAb, Inc.				0.02	0.00	0.07	36.54	0.0011	0.0001
+MYFW / First Western Financial Inc				0.00	0.00	0.07	20.00	0.0010	-0.0001
+CRD.B / Crawford & Co. - Class B				0.01	219.65	0.06	255.56	0.0009	0.0006
+ISTR / Investar Holding Corp				0.00	0.00	0.06	19.23	0.0009	-0.0001
+SRTS / Sensus Healthcare Inc				0.02	-0.47	0.06	15.09	0.0009	-0.0001
+ARHS / Arhaus Inc Class A				0.01		0.06		0.0009	0.0009
+FDBC / Fidelity D&D Bancorp, Inc.				0.00	0.00	0.05	25.58	0.0008	-0.0000
+FPH / Five Point Holdings LLC - Class A				0.01	0.00	0.04	29.41	0.0007	0.0000
+TTSH / Tile Shop Hldgs Inc				0.01	0.00	0.04	13.16	0.0006	-0.0001
+FGBI / First Guaranty Bancshares Inc				0.00	0.00	0.04	-16.00	0.0006	-0.0003
+MNSB / MainStreet Bancshares Inc				0.00		0.04		0.0006	0.0006
+EVBN / Evans Bancorp Inc				0.00	0.00	0.04	19.35	0.0005	-0.0000
+VABK / Virginia National Bankshares Corp				0.00		0.04		0.0005	0.0005
+RUSHA / Rush Enterprises Inc - Class A				0.00	50.00	0.03	21.43	0.0005	-0.0000
+MESA / Mesa Air Group Inc.				0.02	0.00	0.03	-18.92	0.0005	-0.0002
+DE:316 / Capital Bancorp Inc				0.00	0.00	0.03	16.00	0.0004	-0.0001
+CFFI / C & F Financial Corp				0.00		0.03		0.0004	0.0004
+PLBC / Plumas Bancorp.				0.00	0.00	0.03	3.85	0.0004	-0.0001
+PWOD / Penns Woods Bancorp, Inc.				0.00		0.03		0.0004	0.0004
+DNA / Ginkgo Bioworks Holdings Inc - Class A				0.00		0.03		0.0004	0.0004
+RECN / Resources Connection, Inc.				0.00	0.00	0.02	0.00	0.0004	-0.0001
+WNEB / Western New England Bancorp Inc				0.00	0.00	0.02	10.00	0.0003	-0.0001
+PBYI / Puma Biotechnology Inc				0.01		0.02		0.0003	0.0003
+FRD / Friedman Industries, Inc.				0.00		0.02		0.0003	0.0003
+PFHC / ProFrac Holding Corp Class A				0.00		0.02		0.0003	0.0003
+KLXE / KLX Energy Services Holdings Inc				0.00		0.01		0.0002	0.0002
+KVHI / KVH Industries, Inc.				0.00	0.00	0.01	-42.11	0.0002	-0.0002
+HBB / Hamilton Beach Brands Holding Co - Class A				0.00	0.00	0.01	33.33	0.0001	-0.0000
+NKSH / National Bankshares Inc.				0.00	0.00	0.01	-14.29	0.0001	-0.0000
+CALB / California Bancorp				0.00	0.00	0.01	25.00	0.0001	0.0000
+CPHC / Canterbury Park Holding Corp				0.00	0.00	0.01	0.00	0.0001	-0.0000
+MRBK / Meridian Corp				0.00	0.00	0.01	25.00	0.0001	-0.0000
+RUSHB / Rush Enterprises Inc - Class B				0.00	50.00	0.00	0.00	0.0001	-0.0000
+NNBR / NN Inc				0.00		0.00		0.0001	0.0001
+GAIA / Gaia Inc - Class A				0.00	0.00	0.00	0.00	0.0000	-0.0000
+AIR / AAR Corp.				0.00	0.00	0.00	0.00	0.0000	-0.0000
